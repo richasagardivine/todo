@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(144, 177, 178);
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+}
+.mid-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+    gap:4rem;
+    margin-right: 1rem;
+}
+input{
+    height:30px;
+    width:30rem;
+    border: 3px solid rgb(130, 144, 144);
+    border-radius: 2rem;
+}
+button{
+    height:2rem;
+    width:9rem;
+    border: 3px solid rgb(130, 144, 144);
+    border-radius: 2rem;
+    background-color:rgb(208, 216, 216);
+}
+ol{
+    margin-left: 30rem;
+    padding-top: 3rem;
+    font-size: 20px;
+}
